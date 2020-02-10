@@ -46,3 +46,9 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 3. Model
 The model use a simple DQN to train the agent and the arhictecture is a 2 fc hidden layers with relu as activation function.  
 With the current configuration the model was able to achieve and avg socre of 15.04 in the first 697 episodes.
+
+4. Plot of Rewards
+Plot can be found in the jupyter notebook
+
+5. Ideas for Future Work
+A double DQN will be implemented and compare against base line
